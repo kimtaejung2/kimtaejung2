@@ -2,7 +2,7 @@
   <!-- 상단 헤더 이미지 (텍스트 변경 가능) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40" width="100%"/>
 
-  <h3>✨ 안녕하세요, 개발자 [이름]입니다! ✨</h3>
+  <h3>✨ Hello World ✨</h3>
   <p>배움과 기록을 좋아하는 개발자입니다.</p>
 </div>
 
@@ -18,6 +18,7 @@
 ## 🛠 Tech Stack
 
 ### Languages
+<p>
 <!-- C -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <!-- C++ -->
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <!-- Flutter -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
