@@ -44,6 +44,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimtaejung2&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaejung2&layout=compact&theme=dark" height="150"/>
+  <!-- 대체 렌더링 서버 1 사용 -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kimtaejung2&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimtaejung2&layout=compact&theme=dark" height="150"/>
 </div>
