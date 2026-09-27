@@ -1,5 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40" width="100%"/>
+  <!-- url('...') 안의 주소를 원하는 사진 링크로 바꾸세요 -->
+  <div style="
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRMFBJ8zEgS5NTZddwnM4RT6QiTI2hTuxjrxX4uNEWw&s=10'); 
+    background-size: cover; 
+    background-position: center; 
+    padding: 60px 20px; 
+    border-radius: 12px; 
+    color: white;
+  ">
+    <h1 style="font-size: 2.5em; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
+      Welcome to my GitHub!
+    </h1>
+  </div>
 
   <h3>✨ Hello World ✨</h3>
 </div>
