@@ -1,21 +1,5 @@
 <div align="center">
-  <!-- 원하는 배경 이미지 URL을 background-image: url('...') 안에 넣으세요 -->
-  <div style="
-    background-image: url('https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop'); 
-    background-size: cover; 
-    background-position: center; 
-    padding: 60px 20px; 
-    border-radius: 15px; 
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-    color: white;
-  ">
-    <h1 style="font-size: 2.8em; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); font-weight: 800;">
-      ✨ Welcome to my GitHub! ✨
-    </h1>
-    <p style="font-size: 1.2em; margin-top: 10px; opacity: 0.9; text-shadow: 1px 1px 4px rgba(0,0,0,0.8);">
-      🚀 Taejung Kim | Cyber Security & Software Engineering
-    </p>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00e5ff&height=220&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Taejung%20Kim%20|%20Developer&descSize=20&descAlignY=70" width="100%"/>
 </div>
 
 <br/>
