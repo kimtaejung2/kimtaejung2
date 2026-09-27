@@ -43,6 +43,7 @@
 
 ## 📊 GitHub Stats
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimtaejung2&show_icons=true&theme=dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaejung2&layout=compact&theme=dark" height="150"/>
