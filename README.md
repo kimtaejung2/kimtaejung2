@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40" width="100%"/>
 
   <h3>✨ Hello World ✨</h3>
-  <p>배움과 기록을 좋아하는 개발자입니다.</p>
 </div>
 
 <br/>
@@ -45,7 +44,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub 통계 카드 (username= 본인 아이디로 변경) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kimtaejung2&show_icons=true&theme=radial" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaejung2&layout=compact&theme=radial" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimtaejung2&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimtaejung2&layout=compact&theme=dark" height="150"/>
 </div>
