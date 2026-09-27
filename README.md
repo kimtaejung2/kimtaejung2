@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00e5ff&height=220&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Taejung%20Kim%20|%20Developer&descSize=20&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40" width="100%"/>
+
+  <h3>✨ H2l10 W0r16 ✨</h3>
 </div>
 
 <br/>
