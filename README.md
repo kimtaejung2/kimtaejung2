@@ -1,16 +1,14 @@
 <div align="center">
-  <!-- url('...') 안의 주소를 원하는 사진 링크로 바꾸세요 -->
-  <div style="
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRMFBJ8zEgS5NTZddwnM4RT6QiTI2hTuxjrxX4uNEWw&s=10'); 
-    background-size: cover; 
-    background-position: center; 
-    padding: 60px 20px; 
-    border-radius: 12px; 
-    color: white;
-  ">
-    <h1 style="font-size: 2.5em; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
-      Welcome to my GitHub!
-    </h1>
+  <div style="position: relative; width: 100%; max-width: 800px; overflow: hidden; border-radius: 12px;">
+    <!-- 배경 이미지 -->
+    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop" width="100%" style="display: block; filter: brightness(0.6);" />
+    
+    <!-- 오버레이 텍스트 -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
+      <h1 style="color: white; font-size: 2.5em; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
+        Welcome to my GitHub!
+      </h1>
+    </div>
   </div>
 
   <h3>✨ Hello World ✨</h3>
