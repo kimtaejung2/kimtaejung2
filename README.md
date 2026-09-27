@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40" width="100%"/>
 
-  <h3>✨ H2l10 W0r16 ✨</h3>
+  <h3>✨ Hello World ✨</h3>
 </div>
 
 <br/>
